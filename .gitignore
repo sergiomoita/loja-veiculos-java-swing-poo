@@ -1,0 +1,9 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build
+out/
+
+# Arquivo gerado em runtime
+clientes.csv
